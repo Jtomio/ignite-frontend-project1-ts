@@ -34,7 +34,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/tgmarinho/nlw1>
+$ git clone <https://github.com/Jtomio/ignite-frontend-project1-ts>
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd ignite-frontend-project1-ts
@@ -63,8 +63,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ---
 
-<a href="https://blog.rocketseat.com.br/author/thiago/">
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/102593994?v=4" width="100px;" alt=""/>
+<a href="https://github.com/Jtomio">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/102593994?v=4" width="100px;" alt="img Jeison"/>
  <br />
  <sub><b>Jeison Tomio</b></sub></a>
 
